@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ReactiveNotes</string>
+    <string name="no_notes_message">No notes here. You can add some by clicking the + button</string>
 </resources>
